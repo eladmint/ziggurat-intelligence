@@ -1,0 +1,47 @@
+# Core Dependencies for Ziggurat Intelligence
+# Built for ICP x OpenXAI x Masumi x TON Hackathon 2025
+
+# Core Python
+asyncio
+dataclasses
+typing-extensions
+
+# AI & Machine Learning
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+torch>=1.9.0  # For gradient explanations
+transformers>=4.20.0  # For attention explanations
+
+# Explainable AI
+shap>=0.41.0  # SHAP explanations
+lime>=0.2.0.1  # LIME explanations
+
+# Blockchain & Crypto
+web3>=6.0.0  # Ethereum integration
+ic-py>=0.7.0  # Internet Computer integration
+
+# HTTP & Networking
+aiohttp>=3.8.0
+requests>=2.28.0
+websockets>=10.0
+
+# Testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.10.0
+
+# Development
+black>=22.0.0  # Code formatting
+ruff>=0.0.270  # Linting
+mypy>=0.991  # Type checking
+
+# Rich UI (optional for comprehensive demo)
+rich>=12.0.0
+
+# JSON & Data
+pydantic>=1.10.0
+python-json-logger>=2.0.0
+
+# Environment
+python-dotenv>=0.19.0
