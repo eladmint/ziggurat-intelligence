@@ -69,7 +69,7 @@ python demos/ziggurat_story_demo.py
 ## 📁 Directory Structure
 
 ```
-ziggurat/
+ziggurat-intelligence/
 ├── 📋 README.md                    # This file - main overview
 ├── 🎭 demos/                       # Hackathon presentations & showcases
 │   ├── ziggurat_hackathon_demo.py  # 5-minute hackathon presentation
@@ -81,6 +81,16 @@ ziggurat/
 │   ├── explainable_research_agent.py # Web3 event research
 │   └── ziggurat_basic_agent.py     # Foundation agent class
 ├── 🧠 core/                        # Core Ziggurat functionality
+│   └── intelligence_engine.py      # Main XAI engine
+├── 🔗 integrations/                # ICP x OpenXAI x Masumi x TON integrations
+│   ├── icp_client.py              # ICP blockchain integration
+│   ├── icp_openxai_client.py      # ICP-OpenXAI bridge
+│   ├── masumi_ziggurat_bridge.py  # Masumi network integration
+│   └── unified_payment_service.py # Multi-chain payment system
+├── 🎯 examples/                    # Working integration examples
+│   ├── masumi_ziggurat_integration_demo.py # Masumi integration demo
+│   ├── ton_payment_integration_demo.py    # TON payment demo
+│   └── run_masumi_ziggurat_demo.py        # Main demo launcher
 ├── 📚 docs/                        # Technical documentation
 └── ✅ tests/                       # Validation and testing
 ```
