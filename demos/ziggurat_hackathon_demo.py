@@ -118,7 +118,7 @@ async def slide_1_title():
     print("   ✅ Complete ICP-OpenXAI integration (working code)")
     print("   ✅ Masumi agents with explainable AI (3 agents live)")
     print("   ✅ Multi-chain Telegram payments (TON + ICP)")
-    print("   ✅ Built on proven Nuru AI foundation (500+ users)")
+    print("   ✅ Built on solid Nuru AI + Agent Forge framework")
     
     wait_for_next_slide()
 
@@ -258,12 +258,12 @@ async def slide_5_openxai_integration():
     
     print("\n   🌙 HOURS 18-24: Production Polish")
     print("      ✅ Everything deployed and battle-tested")
-    print("      ✅ 500+ users already using the foundation")
-    print("      ✅ Revenue model validated and ready")
+    print("      ✅ Framework ready for user onboarding")
+    print("      ✅ Revenue model designed and validated")
     
     print("\n\n🏛️ BUILT ON ANCIENT FOUNDATIONS:")
     print("   Like ziggurats built on solid ground, we built on:")
-    print("   • Nuru AI: 500 users, 482 events (pre-hackathon)")
+    print("   • Nuru AI: Event intelligence platform foundation")
     print("   • Agent Forge: 15,000+ lines of framework")
     print("   • Years of research distilled into 24 hours of magic")
     
@@ -482,12 +482,12 @@ async def slide_9_metrics():
     print("\n\n🏗️ PRE-HACKATHON FOUNDATION:")
     
     foundation_metrics = [
-        ("Nuru AI Platform", "482 events, production bot"),
+        ("Nuru AI Platform", "Event intelligence framework"),
         ("Agent Forge Framework", "15,000+ lines, open source"),
-        ("Telegram Users", "500+ active users"),
-        ("Revenue Model", "$25-250/month validated"),
+        ("Technical Infrastructure", "Production-ready deployment"),
+        ("Revenue Model", "$25-250/month designed"),
         ("Documentation", "200+ pages"),
-        ("Enterprise Deployment", "Google Cloud production")
+        ("Enterprise Deployment", "Google Cloud ready")
     ]
     
     for metric, value in foundation_metrics:
@@ -548,20 +548,20 @@ async def slide_11_next_steps():
     print("   ✅ The impossible: True decentralized explainable AI")
     print("   ✅ Working code: ICP-OpenXAI bridge functioning")
     print("   ✅ Living agents: 3 Masumi agents with XAI superpowers")
-    print("   ✅ Real users: 500+ people using our foundation")
-    print("   ✅ Real money: $25-250/month revenue model proven")
+    print("   ✅ Production ready: Framework prepared for users")
+    print("   ✅ Business model: $25-250/month revenue model designed")
     
     print("\n\n🏗️ BUILT ON ETERNAL FOUNDATIONS:")
     print("   • Years of research: 40+ hours synthesized into 24")
     print("   • Battle-tested code: 15,000+ lines of Agent Forge")
-    print("   • Proven market: 482 events, production infrastructure")
+    print("   • Technical foundation: Production-ready infrastructure")
     print("   • Ancient wisdom: Trust, but verify - mathematically")
     
-    print("\n\n🎯 EXPERIENCE OUR FOUNDATION:")
-    print("   🤖 Try @TokenNavBot - see the 500-user foundation")
-    print("   💎 Use /premium - experience multi-chain payments")
-    print("   🧠 Try /ai_search - witness explainable AI in action")
-    print("   🔍 Verify everything - the blockchain doesn't lie")
+    print("\n\n🎯 EXPERIENCE OUR VISION:")
+    print("   🤖 Framework: @TokenNavBot foundation ready for users")
+    print("   💎 Technology: Multi-chain payment infrastructure")
+    print("   🧠 Innovation: Explainable AI ready for deployment")
+    print("   🔍 Verification: Blockchain truth - mathematically proven")
     
     print("\n\n🌍 PARTNERSHIPS FOR TOMORROW:")
     print("   • ICP: Expanding the internet computer's AI capabilities")
