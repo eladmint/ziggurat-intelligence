@@ -38,10 +38,10 @@
 ## 🏗️ Built on Pre-Hackathon Foundation
 
 ### Nuru AI (Pre-Hackathon)
-- **500+ Active Users**: Production Telegram bot (@TokenNavBot)
-- **482 Events**: Real-world event intelligence data
+- **Technical Framework**: Event intelligence platform foundation
+- **Database Architecture**: Production-ready data management
 - **Google Cloud Infrastructure**: Enterprise-grade deployment
-- **Revenue Model**: $25-250/month subscription tiers validated
+- **Business Model**: $25-250/month subscription tiers designed
 
 ### Agent Forge Framework (Pre-Hackathon)
 - **15,000+ Lines**: Open-source AI agent framework

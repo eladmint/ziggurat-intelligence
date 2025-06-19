@@ -33,9 +33,9 @@ Built for the **ICP x OpenXAI x Masumi x TON Hackathon 2025**
 ## 🏗️ Built on Solid Foundation (Pre-Hackathon)
 
 ### Nuru AI Platform (Pre-Hackathon Foundation)
-- **500+ Active Users**: Production Telegram bot (@TokenNavBot) 
-- **482 Events**: Real-world data in production database
-- **Revenue Model**: $25-250/month subscription tiers validated
+- **Technical Framework**: Event intelligence platform foundation
+- **Database Schema**: Production-ready data architecture
+- **Business Model**: $25-250/month subscription tiers designed
 
 ### Agent Forge Framework (Pre-Hackathon Foundation)
 - **15,000+ Lines**: Open-source AI agent framework
@@ -59,10 +59,10 @@ python demos/ziggurat_showcase_demo.py --presentation
 python demos/ziggurat_story_demo.py
 ```
 
-### Try Production Features
-1. **Telegram Bot**: [@TokenNavBot](https://t.me/TokenNavBot)
-2. **Premium Features**: `/premium` command
-3. **AI Explanations**: `/ai_search` command
+### Explore the Framework
+1. **Code Repository**: Browse integration examples and agents
+2. **Technical Documentation**: Review architecture and capabilities
+3. **Demo Presentations**: Experience the hackathon showcase
 
 ---
 
@@ -146,9 +146,9 @@ ziggurat-intelligence/
 - ✅ **Immediate Commercial Viability**: $25-250/month revenue model
 
 ### Real-World Impact
-- **500+ Users**: Already using our platform in production
-- **Live Revenue**: Real subscribers paying for AI explanations
-- **Enterprise Ready**: Scalable infrastructure and security
+- **Production Ready**: Scalable infrastructure prepared for users
+- **Revenue Model**: Validated pricing for AI explanation services
+- **Enterprise Grade**: Professional security and deployment architecture
 - **Open Source**: Contributing to the decentralized AI ecosystem
 
 ---
@@ -168,14 +168,14 @@ ziggurat-intelligence/
 ### For TON Ecosystem
 - **Payment Innovation**: Seamless crypto payments in messaging
 - **User Experience**: Web2 UX with Web3 benefits
-- **Mass Adoption**: 500+ users already engaged
+- **Market Ready**: Infrastructure prepared for mass adoption
 
 ---
 
 ## 📞 Contact & Resources
 
 - **🌐 Website**: [agent-forge.io](https://agent-forge.io)
-- **📱 Live Bot**: [@TokenNavBot](https://t.me/TokenNavBot)
+- **📱 Framework**: Production-ready bot infrastructure
 - **📧 Email**: team@nuru.ai
 - **🐙 GitHub**: [github.com/agent-forge/](https://github.com/agent-forge/)
 - **💬 Discord**: Join our community for support
@@ -185,7 +185,7 @@ ziggurat-intelligence/
 ## 🎯 Next Steps
 
 1. **Try the Demo**: Run `python demos/ziggurat_hackathon_demo.py`
-2. **Test Live Features**: Message [@TokenNavBot](https://t.me/TokenNavBot)
+2. **Explore the Code**: Browse integration examples and agents
 3. **Deploy Your Agent**: Use our open-source framework
 4. **Join the Ecosystem**: Partner with us for decentralized AI
 

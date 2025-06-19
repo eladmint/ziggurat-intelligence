@@ -32,7 +32,7 @@ ziggurat-intelligence/
 - 8,000+ lines of hackathon code
 
 **🏗️ PRE-HACKATHON FOUNDATION:**
-- Nuru AI (500+ users, production bot)
+- Nuru AI (event intelligence framework)
 - Agent Forge framework (15,000+ lines)
 - Validated revenue model ($25-250/month)
 
@@ -130,10 +130,10 @@ python tests/test_hackathon_integration.py
 ### 🎭 Live Demonstrations
 - **Hackathon Presentation**: 5-minute slide-based demo
 - **Interactive Showcase**: Complete capabilities exploration
-- **Production Bot**: [@TokenNavBot](https://t.me/TokenNavBot)
+- **Production Ready**: Framework prepared for deployment
 
 ### 🏗️ Built on Foundation
-- **Nuru AI**: 500+ users, 482 events, production infrastructure
+- **Nuru AI**: Event intelligence framework, production infrastructure
 - **Agent Forge**: 15,000+ lines open-source framework
 - **Enterprise Ready**: Google Cloud deployment, real revenue
 
@@ -203,11 +203,11 @@ Built for **ICP x OpenXAI x Masumi x TON Hackathon 2025**
 ✅ Real ICP-OpenXAI integration  
 ✅ Masumi agents with explainable AI
 ✅ Multi-chain payments in production
-✅ 500+ real users already paying!
+✅ Production-ready framework for users!
 
 Not just a demo - real revenue: $25-250/month 💰
 
-Try it: @TokenNavBot
+Framework: github.com/eladmint/ziggurat-intelligence
 Code: github.com/YOUR_USERNAME/ziggurat-intelligence
 
 #ExplainableAI #Web3 #Blockchain #Hackathon
@@ -217,7 +217,7 @@ Code: github.com/YOUR_USERNAME/ziggurat-intelligence
 ```
 🎉 Exciting news! Just launched Ziggurat Intelligence - the world's first decentralized explainable AI platform.
 
-After months of building on our Agent Forge framework and Nuru AI platform (500+ users, real revenue), we achieved a breakthrough during the ICP x OpenXAI x Masumi x TON hackathon:
+After months of building our Agent Forge framework and Nuru AI platform foundation, we achieved a breakthrough during the ICP x OpenXAI x Masumi x TON hackathon:
 
 🔗 Complete ICP-OpenXAI integration
 🤖 Masumi agents with built-in explanations  
@@ -249,7 +249,7 @@ Try the live bot: @TokenNavBot
 ### ✅ **Hackathon Submission Ready**
 - [x] 5-minute presentation demo
 - [x] Technical implementation proof
-- [x] Real user validation (500+ users)
+- [x] Production framework validation
 - [x] Revenue validation ($25-250/month)
 - [x] Partnership value clearly articulated
 

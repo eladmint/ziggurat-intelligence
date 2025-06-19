@@ -185,7 +185,7 @@ result = await payments.process_ton_payment(user_id, amount)
    - Unified subscription management
 
 ### 🏗️ **Built on Pre-Hackathon Foundation**
-- **Nuru AI**: 500+ users, production infrastructure
+- **Nuru AI**: Event intelligence framework, production infrastructure
 - **Agent Forge**: 15,000+ lines, enterprise framework
 - **Revenue Model**: $25-250/month validated pricing
 
