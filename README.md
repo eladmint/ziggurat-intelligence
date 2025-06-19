@@ -26,18 +26,18 @@ Built for the **ICP x OpenXAI x Masumi x TON Hackathon 2025**
 - **TON Integration**: Native Telegram payments for premium features
 - **ICP Integration**: Cross-chain payment processing
 - **Real-time Billing**: Subscription management with instant activation
-- **Live Production**: Active users paying for explainable AI features
+- **Live Production**: Infrastructure ready for explainable AI features
 
 ---
 
 ## 🏗️ Built on Solid Foundation (Pre-Hackathon)
 
-### Nuru AI Platform
-- **500+ Active Users**: Production Telegram bot (@TokenNavBot)
+### Nuru AI Platform (Pre-Hackathon Foundation)
+- **500+ Active Users**: Production Telegram bot (@TokenNavBot) 
 - **482 Events**: Real-world data in production database
 - **Revenue Model**: $25-250/month subscription tiers validated
 
-### Agent Forge Framework  
+### Agent Forge Framework (Pre-Hackathon Foundation)
 - **15,000+ Lines**: Open-source AI agent framework
 - **Enterprise Testing**: 182+ comprehensive tests
 - **Production Deployment**: Google Cloud infrastructure

@@ -228,9 +228,9 @@ async def slide_5_openxai_integration():
     print("   ✅ Production-ready deployment\n")
     
     print("🏗️ FOUNDATION (PRE-HACKATHON):")
-    print("   • Nuru AI: Event intelligence platform")
+    print("   • Nuru AI: Event intelligence platform (500+ users)")
     print("   • Agent Forge: Open-source AI agent framework") 
-    print("   • Telegram Bot: 500+ users, production-ready")
+    print("   • Telegram Bot: Production infrastructure ready")
     
     print("\n🎯 HACKATHON RESULT:")
     type_text("   First TRUE decentralized XAI with working Masumi agents!")
@@ -500,13 +500,13 @@ async def slide_11_next_steps():
     print("   ✅ Multi-chain payments (TON + ICP)")
     print("   ✅ Production-ready deployments")
     
-    print("\n\n🏗️ BUILT ON SOLID FOUNDATION:")
-    print("   • Nuru AI: 500+ users, 482 events")
-    print("   • Agent Forge: Open-source framework")
-    print("   • Real revenue model: $25-250/month")
+    print("\n\n🏗️ BUILT ON PRE-HACKATHON FOUNDATION:")
+    print("   • Nuru AI: 500+ users, 482 events (existing platform)")
+    print("   • Agent Forge: Open-source framework") 
+    print("   • Revenue model: $25-250/month (pre-hackathon validation)")
     
-    print("\n\n🎯 TRY IT NOW:")
-    print("   1. Telegram: @TokenNavBot (live production)")
+    print("\n\n🎯 TRY FOUNDATION PLATFORM:")
+    print("   1. Telegram: @TokenNavBot (pre-hackathon platform)")
     print("   2. Premium features: /premium command")
     print("   3. AI explanations: /ai_search command")
     
