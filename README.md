@@ -52,11 +52,17 @@ Built for the **ICP x OpenXAI x Masumi x TON Hackathon 2025**
 # Run the 5-minute hackathon presentation
 python demos/ziggurat_hackathon_demo.py
 
-# Interactive showcase of all capabilities  
-python demos/ziggurat_showcase_demo.py --presentation
+# Test live ICP-OpenXAI connection
+python demos/ziggurat_hackathon_demo.py --test-connection
 
-# Story-driven narrative experience
-python demos/ziggurat_story_demo.py
+# Show integration architecture
+python demos/ziggurat_hackathon_demo.py --show-integration
+
+# Standalone connection test
+python demos/icp_openxai_connection_test.py
+
+# Web demo interface
+open demos/web_demo.html
 ```
 
 ### Explore the Framework
